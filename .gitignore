@@ -1,0 +1,7 @@
+.env
+main.py
+tasks.py
+venv/
+commands.txt
+store-monitoring-data
+.DS_Store
