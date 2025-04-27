@@ -206,10 +206,3 @@ The logic resides primarily in `src/store_monitor/calculation.py`.
 *   **Enhanced Extrapolation:** Implement more sophisticated methods for estimating status between polls if the current "last status holds" assumption is insufficient.
 *   **Database Indexing & Optimization:** Analyze query performance for large datasets and add/tune database indexes as needed.
 
-## Contributing
-
-(Optional: Add guidelines if you expect contributions)
-
-## License
-
-(Optional: Specify a license, e.g., MIT, Apache 2.0)
