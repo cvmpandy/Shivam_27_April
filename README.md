@@ -122,8 +122,8 @@ The logic resides primarily in `src/store_monitor/calculation.py`.
     *   Docker and Docker Compose
 2.  **Clone Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd store-monitoring-system # Or your repo name
+    git clone <https://github.com/cvmpandy/Shivam_27_April>
+    cd store-monitoring-system 
     ```
 3.  **Create Virtual Environment:** (Recommended)
     ```bash
