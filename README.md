@@ -129,10 +129,7 @@ The logic resides primarily in `src/store_monitor/calculation.py`.
     ```bash
     python3 -m venv venv
     # Activate:
-    # macOS/Linux:
     source venv/bin/activate
-    # Windows (cmd): venv\Scripts\activate.bat
-    # Windows (PowerShell): venv\Scripts\Activate.ps1
     ```
 4.  **Install Dependencies:**
     ```bash
